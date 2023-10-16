@@ -8,8 +8,8 @@
 
 
 ### Currently:
-- Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 3rd year.
-- Learning UE4/5 with C++.
+- Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 4th year.
+- Learning Frontend.
 
 ### Education:
 - State Autonomous Educational Institution of the city of Moscow "School No. 548", 2009-2020.
@@ -19,10 +19,6 @@
 - Email: kataeffg@yandex.ru
 - Telegram: @loisakilla
 
-### Projects:
-- [Telegram bot] *(in process)*
-- [IS for ISP] *(in process)*
-- [Graph visualization in UE4] *(in process)*
 
 ### Languages:
 - :ru: Russian *(Native)*
