@@ -35,10 +35,9 @@
 </div>
 
 
-###Projects:
+### Projects:
   - BurgerHouse website:
-    
-            - loisakilla.github.io/burgers/
+    https://loisakilla.github.io/burgers/
            
 
 ### Hobbies:
