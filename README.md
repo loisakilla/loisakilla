@@ -36,8 +36,10 @@
 
 
 ### Projects:
-  - BurgerHouse website:
-    https://loisakilla.github.io/burgers/
+  <div>
+    <a href="https://loisakilla.github.io/burgers/">BurgerHouse website</a>
+  </div>
+    
            
 
 ### Hobbies:
