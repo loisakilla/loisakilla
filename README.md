@@ -40,6 +40,8 @@
     <a href="https://loisakilla.github.io/burgers/">BurgerHouse website</a>
     <br>
     <a href="https://github.com/loisakilla/trvp_home_task">Homework</a>
+    <br>
+    <a href="https://loisakilla.github.io/miniProject/">Mini blog</a>
   </div>
     
            
