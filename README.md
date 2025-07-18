@@ -8,12 +8,13 @@
 
 
 ### Currently:
-- Studying at BMSTU, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 4th year.
-- Learning Frontend.
+- Studying at Russian Presidential Academy of National Economy and Public Administration, Faculty of Economics, Mathematics and Information Technology, 2nd year.
+- Frontend-developer at KSC IT.
 
 ### Education:
 - State Autonomous Educational Institution of the city of Moscow "School No. 548", 2009-2020.
 -  Bauman Moscow State Technical University, Faculty of Robotics and Complex Automation, Bachelor's degree CAD/CAM Software Engineering, 2020-2024.
+-  Russian Presidential Academy of National Economy and Public Administration, Faculty of Economics, Mathematics and Information Technology, Master's degree in Digital technologies in the economy, 2024-2026.
 
 ### Contacts:
 - Email: kataeffg@yandex.ru
