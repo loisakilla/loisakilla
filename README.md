@@ -45,6 +45,8 @@
     <a href="https://github.com/loisakilla/trvp_home_task">Homework</a>
     <br>
     <a href="https://loisakilla.github.io/miniProject/">Mini blog</a>
+    <br>
+    <a href="https://loisakilla.github.io/sidebar-task/">Test task</a>
   </div>
     
            
