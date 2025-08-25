@@ -41,12 +41,12 @@
 ### Projects:
   <div>
     <a href="https://github.com/loisakilla/wedding">Wedding Invitation(in progress)</a>
-    <br> 
+/*    <br> 
     <a href="https://loisakilla.github.io/burgers/">BurgerHouse website</a>
     <br>
     <a href="https://loisakilla.github.io/miniProject/">Mini blog</a>
     <br>
-    <a href="https://loisakilla.github.io/sidebar-task/">Test task</a>
+    <a href="https://loisakilla.github.io/sidebar-task/">Test task</a>*/
   </div>
     
            
