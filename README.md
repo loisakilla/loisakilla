@@ -9,7 +9,7 @@
 
 ### Currently:
 - Studying at Russian Presidential Academy of National Economy and Public Administration, Faculty of Economics, Mathematics and Information Technology, 2nd year.
-- Frontend-developer at KSC IT.
+- Frontend-developer at KSC IT 03/2024 - 08-/2025.
 
 ### Education:
 - State Autonomous Educational Institution of the city of Moscow "School No. 548", 2009-2020.
