@@ -40,7 +40,7 @@
 
 ### Projects:
   <div>
-    <a href="https://github.com/loisakilla/wedding">Wedding Invitation(in progress)</a>
+    <a href="https://github.com/loisakilla/motion-lab">Motion-Lab(in progress)</a>
   </div>
     
            
