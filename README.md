@@ -45,10 +45,6 @@
 
 ### Projects:
   <div>
-    <a href="https://motion-lab-two.vercel.app/">Motion-Lab(in progress)</a>
-    <br/>
-    <a href="https://user-group-app.vercel.app/">User-table</a>
-    <br/>
     <a href="https://max-snowy-sigma.vercel.app/">Thermal-stabilization</a>
   </div>
     
