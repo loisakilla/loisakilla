@@ -46,6 +46,7 @@
 ### Projects:
   <div>
     <a href="https://jinx-ui.vercel.app/">Jinx UI (in progress)</a>
+    <br/>
     <a href="https://max-snowy-sigma.vercel.app/">Thermal-stabilization</a>
   </div>
     
