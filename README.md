@@ -8,9 +8,9 @@
 
 
 ### Currently:
-- Studying at Russian Presidential Academy of National Economy and Public Administration, Faculty of Economics, Mathematics and Information Technology, 2nd year.
+- PhD applicant, results expected.
 - Frontend-developer at KSC IT 03/2024 - 08/2025.
-- Frontend-developer at NanoHire 10/2025 - present.
+- Frontend-developer at NanoHire 10/2025 - 09/2026.
 
 ### Education:
 - State Autonomous Educational Institution of the city of Moscow "School No. 548", 2009-2020.
@@ -58,7 +58,7 @@
 
 ### Hobbies:
 
-- Listening music.
+- F1.
 - Gym.
 - Favorite books and book series:
 
@@ -66,9 +66,8 @@
         - George Orwell. 1984
         - Arthur Hailey. Hotel
         - Stephen Hunter. Point of Impact
+        - Anjey Sapkowski. The witcher
         
-
-
 - Favorite games:
     
         - Infinity Ward:  
@@ -86,3 +85,6 @@
                      Metro 2033
                      Metro Last Light
                      Metro Exodus
+                     
+        - Wube Software:
+                      Factorio
