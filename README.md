@@ -45,7 +45,11 @@
 
 ### Projects:
   <div>
-    <a href="https://jinx-ui.vercel.app/">Jinx UI (in progress)</a>
+    <a href="https://jinx-ui.vercel.app/">Jinx UI</a>
+    <br/>
+    <a href="https://context-lab-seven.vercel.app">AI-context lab, based on React-library Jinx UI</a>
+    <br/>
+    <a href="https://loisakilla.github.io/green-api-telegram-chat/">Test-case by GreenApi</a>
     <br/>
     <a href="https://max-snowy-sigma.vercel.app/">Thermal-stabilization</a>
   </div>
